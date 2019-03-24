@@ -18,14 +18,15 @@ numpy
 - [ ] load image from directory
 
 ## How to use 
-cd to the this repo directory
+get the root to the this repo directory
 run anaconda prompt,run the code by
 > python mark_line_demo.py [the path of your image, you can drag the picture to the prompt to add the path]
-and you can test by run 
+
+And you can test by run 
 > python mark_line_demo.py ./data/bone.jpeg
 
 Then you should see like:
-(https://github.com/ZhengXing-shawn/Markline/images/bone_result_0.png)
+ ![image](https://github.com/ZhengXing-shawn/Markline/images/bone_result_0.png)
 
 
 ## Lisence 
