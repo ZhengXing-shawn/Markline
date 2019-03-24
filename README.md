@@ -26,7 +26,9 @@ And you can test by run
 > python mark_line_demo.py ./data/bone.jpeg
 
 Then you should see like:
- ![image](https://github.com/ZhengXing-shawn/Markline/tree/master/images/bone_result_0.jpg)
+ ![image](https://github.com/ZhengXing-shawn/Markline/raw/master/images/bone_result_0.jpg)
+ #https://github.com/ZhengXing-shawn/Markline/raw/master/images/bone_result_0.jpg
+ #https://github.com/ZhengXing-shawn/Markline/tree/master/images/bone_result_0.jpg
 
 
 ## Lisence 
