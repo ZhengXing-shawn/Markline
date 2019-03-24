@@ -50,6 +50,7 @@ Then you should see like:
 
 
 (Press Esc and you can start again)
+
 (Press X and the result will be save on folder './data/result')
 
 
@@ -59,4 +60,5 @@ MIT Lisence
 
 ## At the end
 This tool is create for my best friend - Yipeng Lin.
+
 Except the UI, there may not be any other function added in the future.
