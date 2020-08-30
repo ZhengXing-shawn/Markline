@@ -79,4 +79,4 @@ MIT License
 
 ## At the end
 
-This tool is create for my best friend - Yipeng Lin. It was used to collect the medical-data. More details in https://journals.sagepub.com/doi/full/10.1177/2325967120923950 
+This tool is created for my best friend - Yipeng Lin. It was used to collect the medical-data. More details in https://journals.sagepub.com/doi/full/10.1177/2325967120923950 
