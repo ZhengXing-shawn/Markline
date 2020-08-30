@@ -2,7 +2,7 @@
 
 ## Description
 
-This tool help to get the distance on the image with the reference pixels.
+This tool helps to get the distance on the image with the reference pixels.
 
 
 ## Requirement
@@ -26,7 +26,7 @@ numpy
 
 Run 'anaconda prompt.exe'
 
-Get the root to the this repo directory(using command like 'cd D:\xx\xx\Markline\')
+Get the root to this repo directory(using a command like 'cd D:\xx\xx\Markline\')
 
 Run the code by
 
@@ -42,11 +42,11 @@ Then you should see like:
 
 ## How to draw
 
-#### Draw the reference line. Click two points to get a line. In the example the line was draw on the needle.(the needle length is set to 5cm)
+#### Draw the reference line. Click two points to get a line. In the example, the line was drawn on the needle. (the needle length is set to 5cm)
 
 ![image](https://github.com/ZhengXing-shawn/Markline/raw/master/images/bone_result_1.jpg)
 
-#### Press B on your keyboard. Click two points to draw the line on the object you want to know the length.(We may mention it as Baseline after)
+#### Press B on your keyboard. Click two points to draw the line on the object you want to know the length. (We may mention it as Baseline after)
 
 ![image](https://github.com/ZhengXing-shawn/Markline/raw/master/images/bone_result_2.jpg)
 
@@ -62,14 +62,14 @@ Then you should see like:
 
 ![image](https://github.com/ZhengXing-shawn/Markline/raw/master/images/bone_result_5.jpg)
 
-#### When drawing the line. Press J to freeze the line. Combined with Zoom-In to get a precision point.(Press J again to activate drawing)
+#### When drawing the line. Press J to freeze the line. Combined with Zoom-In to get a precision point. (Press J again to activate drawing)
 
 ![image](https://github.com/ZhengXing-shawn/Markline/raw/master/images/bone_result_7.jpg)
 
 
 (Press Esc and you can restart drawing)
 
-(Press X and the result will be save on folder './data/result')
+(Press X and the result will be saved on folder './data/result')
 
 
 ## License
@@ -79,4 +79,4 @@ MIT License
 
 ## At the end
 
-This tool is created for my best friend - Yipeng Lin. It was used to collect the medical-data. More details in https://journals.sagepub.com/doi/full/10.1177/2325967120923950 
+This tool is created for my best friend - Yipeng Lin. It was used to collect the medical data. More details in https://journals.sagepub.com/doi/full/10.1177/2325967120923950 
